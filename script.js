@@ -1,5 +1,5 @@
 function dark() {
-    document.getElementById("mood").style.backgroundColor = "#1f1f1f";
+    document.getElementById("mood").style.backgroundColor = "#000";
     document.getElementById("mood").style.color = "#fff";
 }
 
